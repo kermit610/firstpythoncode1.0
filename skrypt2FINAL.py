@@ -4,7 +4,7 @@ print (przedstaw)
 zgoda = input("Czy rozmówca się zgodził? ").lower()
 if zgoda == 't':
     print('Dziękuje bardzo!')
-    przedstaw2 =('\n Dzień dobry nazywam się Michał Podwysocki i dzwonię w imieniu \n operatora telekomunikacyjnego Tele Strefa')
+    przedstaw2 =('\n Dzień dobry nazywam się Michał Podwysocki i dzwonię w imieniu \n operatora telekomunikacyjnego Teletombola')
     print (przedstaw2)
     pytanie = input("Czy korzystają już może Państwo z usług Tele tomboli? ").lower()
     if pytanie =='t':
